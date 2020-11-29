@@ -1,0 +1,62 @@
+html, body{
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	margin: 0;
+}
+header{
+	background-color: #6380C5;
+	padding: 40px;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 174px; 
+	width: 300px;
+	border: 24px solid #A6C6E9;
+}
+
+.content{
+	max-width: 700px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+}
+ul{
+	list-style: none;
+	padding:0;
+	margin:0;
+}
+
+a{
+	color: blue;
+	text-decoration: none;
+}
+
+footer{
+	padding: 40px 20px;
+	background-color: #788DA7;
+}
+
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display:inline-block;
+	margin: 0 5px;
+}
+/*<header>
+			<img src="img/profile.jpg">
+			<h1>Cristina Yang</h1>
+		</header>
